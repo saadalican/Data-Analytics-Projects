@@ -1,4 +1,4 @@
-# Data-Analytics-Portfolio
+
 
 
 # [Project-1: Amazon Sales Data Trend](https://github.com/saadalican/Amazon-Sales-Data-Trend)
