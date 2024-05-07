@@ -12,9 +12,11 @@
 
 This project delves into the analysis of Croma retail sales data for the years 2022 to 2023. The dataset encompasses sales transactions, providing insights into product performance and stock management, customer behavior, and seasonal trends. The analysis is conducted using SQL for data querying and PowerBI for visualization, facilitating comprehensive understanding and decision-making.
 
-![Sales Dashboard](https://github.com/saadalican/Data-Analytics-Projects/blob/main/sales%20report%20capstone%201.png)
+### Dashboard Overview
+![sales report capstone 1](https://github.com/saadalican/Data-Analytics-Projects/assets/166583244/887aec97-26d0-439d-9f37-9eef3f48ee36)
 
-![Stock Dashboard](https://github.com/saadalican/Data-Analytics-Projects/blob/main/stock%20report%20capstone%201.png)
+![stock report capstone 1](https://github.com/saadalican/Data-Analytics-Projects/assets/166583244/f5bab1b4-7439-4ad3-9fc5-d53fa2e1f298)
+
 Report Created on Power BI
 
 ### Data Sources
