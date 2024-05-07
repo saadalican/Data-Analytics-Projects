@@ -4,7 +4,7 @@
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
-- [Recommendations](#recommendations)
+- [EDA](#Exploratory-Data-Analysis)
 
 ### Project Overview
 ---
@@ -77,7 +77,7 @@ This project offers valuable insights into sales trends, stock management, produ
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
-- [Recommendations](#recommendations)
+- [EDA](#Exploratory-Data-Analysis)
 
 ### Project Overview
 ---
