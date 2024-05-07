@@ -88,7 +88,12 @@ This project offers valuable insights into sales trends, stock management, produ
 
 This capstone project explores Amazon customer sales data from 2020 to 2023, providing insights into sales trends, customer behavior, and category performance. The project utilizes SQL, Power BI, and advanced Excel techniques to analyze and visualize the data.
 
+### Dashboard Overview
+---
 ![Data Summary Page 1](https://github.com/saadalican/Data-Analytics-Projects/assets/166583244/41c31e47-2745-4c3f-8396-ca4e2c3f3525)
+
+![Customer data Page 2](https://github.com/saadalican/Data-Analytics-Projects/assets/166583244/8572d398-b7af-4fcb-9953-9338c8e0e4d8)
+
 Report Created on Power BI
 
 ### Data Sources
@@ -139,4 +144,3 @@ The analysis results are summarized as follows:
 I had to remove all zero values from revenue columns because they would have affected the accuracy of my conclusions from the analysis. The data was randomly generated throught python, access to real time data would have given more valuable insights. 
 
 
-![Customer data Page 2](https://github.com/saadalican/Data-Analytics-Projects/assets/166583244/8572d398-b7af-4fcb-9953-9338c8e0e4d8)
